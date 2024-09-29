@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @saroj-Neupane
+- 👀 I’m interested in AI, Data Science, and Problem Solving.
+- 🌱 I’m currently learning Python, R, SQL, AI 
+- 💞️ I’m looking to collaborate on AI
+- 📫 How to reach me LinkedIn
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: AI may take your job but won't take your knowledge.
